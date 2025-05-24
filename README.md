@@ -1,4 +1,4 @@
-# Customer Segmentation with RFM and Clustering
+# Segmentación de clientes con RFM y clustering
 
 Este proyecto de análisis de datos tiene como objetivo segmentar a los clientes de un negocio de retail en línea utilizando técnicas de aprendizaje no supervisado. Se emplea el enfoque RFM (Recency, Frequency, Monetary) para agrupar a los clientes según su comportamiento de compra histórico, lo cual permite generar estrategias de marketing más efectivas y personalizadas.
 
