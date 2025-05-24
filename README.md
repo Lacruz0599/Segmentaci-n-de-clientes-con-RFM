@@ -25,10 +25,6 @@ Este enfoque permitió clasificar a los clientes en segmentos como compradores f
 
 ## 🧠 Principales Hallazgos
 
-- Se identificaron grupos de clientes claramente diferenciados según su comportamiento:
-  - **Clientes leales**: alta frecuencia de compra y alto gasto.
-  - **Clientes recientes**: con compras recientes, pero baja frecuencia y monto.
-  - **Clientes inactivos**: con un largo periodo sin comprar.
 - El análisis RFM facilita entender qué segmentos deben ser priorizados para retención, reactivación o promoción.
 - Los resultados pueden ser utilizados para personalizar estrategias de CRM, email marketing, ofertas exclusivas y asignación de recursos.
 
