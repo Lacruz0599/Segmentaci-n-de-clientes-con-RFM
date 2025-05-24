@@ -60,3 +60,4 @@ Este enfoque permitió clasificar a los clientes en segmentos como compradores f
 **Cesar Eduardo Cruz Cabrera**  
 📧 cesareduardocruzcabrera@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera)
+
